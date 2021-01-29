@@ -20,7 +20,7 @@
 <img  align="right"  alt="GIF"  src="https://media3.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" />
   
 
-### 🧔🏽  I'm João Vitor Dantas 
+### 🧔🏽  I'm João Vitor 
 
 - 💻 Web and Mobile developer.
 
