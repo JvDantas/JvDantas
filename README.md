@@ -17,8 +17,7 @@
 
 <br />
 
-<img  align="right"  margin:  "auto"  alt="GIF"  src="https://media3.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" />
-
+<img  align="right"  alt="GIF"  src="https://media3.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" />
   
 
 ### 🧔🏽  I'm João Vitor Dantas 
